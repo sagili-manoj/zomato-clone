@@ -14,10 +14,11 @@ This is a simple clone of the Zomato homepage built using HTML and CSS. It captu
 Just open the `index.html` file in your browser.
 
 ```bash
-git clone https://github.com/your-username/zomato-clone.git
+git clone https://github.com/ysagili-manoj/zomato-clone.git
 cd zomato-clone
 open index.html
 
+double click on the file and click on "open with live server" to view the page
 ---
 
 Let me know if you want me to zip this up or help host it on GitHub Pages!
