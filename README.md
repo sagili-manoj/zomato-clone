@@ -19,6 +19,4 @@ cd zomato-clone
 open index.html
 
 double click on the file and click on "open with live server" to view the page
----
-
-Let me know if you want me to zip this up or help host it on GitHub Pages!
+Make Sure to Download a Live Server Extension
